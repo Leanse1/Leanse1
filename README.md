@@ -5,7 +5,7 @@
 
 **`Computer Vision Craftsman (Architect/Developer)`**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leanse1&label=Profile%20views&color=0e75b6&style=flat" alt="leanse1" /> </p>
-<img align="right" alt="Coding" width="300" src="https://editor.analyticsvidhya.com/uploads/76746devcommunity.gif">
+<img align="right" alt="Coding" width="300" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/How-this-powerful-Open-Source-Spatial-AI-System-will-accelerate-computer-vision-functions.gif">
 
 I am a Computer Vision Engineer building my version of the digital world one step at a time. Most of the coding projects posted here are built from scratch from downloading files and annotations all the way to solving real-life problems with code. 
 
