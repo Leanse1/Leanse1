@@ -37,7 +37,7 @@ I am a Computer Vision Engineer building my version of the digital world one ste
 
 <details>
  <summary><h3>👨‍💻 My AI Journey</h3></summary>
-   I started my coding journey as a naive data analyst with a passion to learn everything I could about data world - pandas, numpy, matplotlib, seaborn. And all the while, teaching myself various data science concepts with a dream to deploy my own project, but that soon got overshadowed by my desire to excel in Artificial Intelligence. I eventually ended up quitting my internship as a data analyst to pursue AI full-time, and that has been my focus ever since. Now I've already taken the leap into AI by diving myself into Deep neural network, ANN, CNN, YOLO and so on . I have a desire to get on the AI horse, and fulfill my desire to build  a career in Computer Vision. And in order to do that, I will be uploading atleast 1 projects every week here in my github.
+   I started my coding journey as a naive data analyst with a passion to learn everything I could about data world - pandas, numpy, matplotlib, seaborn. And all the while, teaching myself various data science concepts with a dream to deploy my own project, but that soon got overshadowed by my desire to excel in Artificial Intelligence. I eventually ended up quitting my internship as a data analyst to pursue AI full-time, and that has been my focus ever since. Now I've already taken the leap into AI by diving myself into Deep neural network, ANN, CNN, YOLO and so on . I have a desire to get on the AI horse, and fulfill my desire to build  a career in Computer Vision and in order to do that, I will be uploading atleast 1 project every week here in my github.
 
 </details>
 
