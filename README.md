@@ -9,7 +9,7 @@
 
 I am a Computer Vision Engineer building my version of the digital world one step at a time. Most of the coding projects posted here are built from scratch from downloading files and annotations all the way to solving real-life problems with code. 
 
-- 🌱 Currently performing **Amazon Dash Cart Proto Project**
+- 🌱 Currently learning **MLOPS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Leanse1?tab=repositories](https://github.com/Leanse1?tab=repositories)
 
